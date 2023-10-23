@@ -38,7 +38,7 @@
                         case 5:
                             break;
                         case 0:
-                            Environment.Exit(0);
+                           Console.WriteLine("Exit");
                             break;
                         default:
                             Console.WriteLine("Yanlış seçim.");
